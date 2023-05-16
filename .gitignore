@@ -1,0 +1,4 @@
+coverage
+api
+node_modules
+.env
